@@ -17,5 +17,5 @@ Navigate to the extracted folder and enter it.
 Step 5: 
 Open JOT TD.py using the python shell, and run the python module. You should then be able to enjoy the game!
 
-We've provided a link below for an entertaining and informative YouTube video we made that showcases how and why the game's genre and systems were decided:  
+We've provided a link below for an entertaining and informative YouTube video we made showcasing how and why the game's genre and systems were decided:  
 https://youtu.be/6uOdORQ2XpE
