@@ -1,5 +1,5 @@
 # JOT-TD-Demo
-A Tower Defense game displaying the basics of the genre by Tony, Johnathan and Oscar  
+A Tower Defense game displaying the basics of the genre by Johnathan, Oscar and Tony.    
 This readme file contains the steps necessary to play the demo of our tower defense game.
 
 Step 1:
