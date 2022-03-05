@@ -1,5 +1,5 @@
 # JOT-TD-Demo
-A Tower Defense game displaying the basics of the genre by Tony, Johnathan and Oscar
+A Tower Defense game displaying the basics of the genre by Tony, Johnathan and Oscar  
 This readme file contains the steps necessary to play the demo of our tower defense game.
 
 Step 1:
@@ -17,6 +17,5 @@ Download IDLE, or if you already have it, open the IDLE shell
 Step 5: 
 Open JOT TD.py using the python shell, and run the python modue. You should then be able to enjoy the game!
 
-We've provided a link below for an entertaining and informative YouTube video we made that showcases how and why the game's genre and systems were decided:
-
+We've provided a link below for an entertaining and informative YouTube video we made that showcases how and why the game's genre and systems were decided:  
 https://youtu.be/6uOdORQ2XpE
